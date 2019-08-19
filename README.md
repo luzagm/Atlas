@@ -5,7 +5,7 @@ En este proyecto vamos a desarrollar nuestra primera web colaborativa. Para ello
 
 </br>
 
-**Objetivos:**
+**Objetivos:** 
 1. Consolidar el aprendizaje de las tecnologías del módulo Hola Mundo (HTML, CSS, diseño responsive, Sass, grid, gulp) </br>
 2. Utilizar control de versiones en equipo para aprender las ventajas y conflictos que genera </br>
 3. Implementar Scrum como marco de referencia para el desarrollo del producto, basándonos siempre en los valores de Agile como puntos clave del trabajo en equipo y la mejora continua </br>
