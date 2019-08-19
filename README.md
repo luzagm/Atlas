@@ -3,7 +3,6 @@
 ### Resumen:</br>
 - En este proyecto vamos a desarrollar nuestra primera web colaborativa. Para ello crearemos una web con la información social de todos los miembros del equipo. De cara a vuestro CV online (o LinkedIn) es muy importante dar visibilidad de que habéis hecho trabajo en equipo. ¡Esta será vuestra primera experiencia de trabajo en equipo relacionada con programación!
 
-
 ### Objetivos:
 1. Consolidar el aprendizaje de las tecnologías del módulo Hola Mundo (HTML, CSS, diseño responsive, Sass, grid, gulp) </br>
 2. Utilizar control de versiones en equipo para aprender las ventajas y conflictos que genera </br>
