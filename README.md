@@ -1,4 +1,4 @@
-# ATLAS - Web grupal
+# ATLAS - Web corporativa
 
 ### El proyecto:</br>
 En este proyecto desarrollamos nuestra primera web colaborativa. Para ello creamos una web con la información social de todos los miembros del equipo: pequeño resumen y el enlace a nuestras redes sociales, además de añadir una descripción de quiénes somos y cómo trabajamos juntas como equipo. 
